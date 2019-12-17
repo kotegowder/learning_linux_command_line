@@ -2,7 +2,7 @@
 
 * A Brief Intro to Linux
 	* Originally released by Linus Torvalds in 1991
-	* Inspired by MINIX/UNIX 
+	* Inspired by MINIX/UNIX
 	* Intended to be free of cost and free to modify under GNU General Public License
 	* Widespread adoption
 	* Often includes tools from GNU Project
