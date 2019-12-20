@@ -31,20 +31,18 @@
 * apropos - To help you look up a command by its description rather than its name.
 
 * Bash Shortcuts
-'''
-Key Combination  |             Result
----------------- | ----------------------------------
- Ctrl-A(^A)      | Move to beginning line
- Ctrl-E(^E)      | Move to end of line
- Ctrl-Left arrow | Move left one word
- Ctrl-Right arrow| Move right one word
- Ctrl-U          | Remove (crop) from cursor to start
- Ctrl-K          | Remove (crop) from cursor to end
- Ctrl-Y          | Past cropped text
- Ctrl-Shift-C    | Copy to clipboard
- Ctrl-Shift-V    | Paste from clipboard
- Up arrow        | Recall previous commands
- Down arrow      | Scroll previous commands
- Ctrl-R          | Search command history
- Ctrl-C          | Cancel command
-'''
+| Key Combination  |             Result                |
+| ---------------- | ----------------------------------|
+| Ctrl-A(^A)       | Move to beginning line            |
+| Ctrl-E(^E)       | Move to end of line               |
+| Ctrl-Left arrow  | Move left one word                |
+| Ctrl-Right arrow | Move right one word               |
+| Ctrl-U           | Remove (crop) from cursor to start|
+| Ctrl-K           | Remove (crop) from cursor to end  |
+| Ctrl-Y           | Past cropped text                 |
+| Ctrl-Shift-C     | Copy to clipboard                 |
+| Ctrl-Shift-V     | Paste from clipboard              |
+| Up arrow         | Recall previous commands          |
+| Down arrow       | Scroll previous commands          |
+| Ctrl-R           | Search command history            |
+| Ctrl-C           | Cancel command                    |
