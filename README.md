@@ -31,6 +31,7 @@
 * apropos - To help you look up a command by its description rather than its name.
 
 * Bash Shortcuts
+~~~
 | Key Combination  |             Result                |
 | ---------------- | ----------------------------------|
 | Ctrl-A(^A)       | Move to beginning line            |
@@ -46,3 +47,4 @@
 | Down arrow       | Scroll previous commands          |
 | Ctrl-R           | Search command history            |
 | Ctrl-C           | Cancel command                    |
+~~~
