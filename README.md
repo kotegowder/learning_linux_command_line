@@ -48,3 +48,4 @@
 | Ctrl-R           | Search command history            |
 | Ctrl-C           | Cancel command                    |
 ~~~
+
